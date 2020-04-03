@@ -1,0 +1,30 @@
+-bek:
+  full name: Bekzhan Bekbolotov
+  job: Devops
+  salary: 150.000
+  skills:
+    -scrum
+    -active directory
+    -linux
+    -github
+  team members:
+    -aman:
+      full name: Aman Satarov
+      job: Devops
+      salary: 150.000
+      skills:
+       -scrum
+       -active directory
+       -linux
+       -github
+
+  
+    -martin:
+      full name: Martin Salamea
+      job: Devops
+      salary: 150.000
+      skills:
+       -scrum
+       -active directory
+       -linux
+       -github
